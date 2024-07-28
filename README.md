@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/jekjeki/my-leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jekjeki/my-leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jekjeki/my-leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/jekjeki/my-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,8 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jekjeki/my-leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/jekjeki/my-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jekjeki/my-leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/jekjeki/my-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/jekjeki/my-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
