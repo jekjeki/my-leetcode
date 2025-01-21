@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/jekjeki/my-leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jekjeki/my-leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2089-maximum-matrix-sum](https://github.com/jekjeki/my-leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/jekjeki/my-leetcode/tree/master/2145-grid-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jekjeki/my-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/jekjeki/my-leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/jekjeki/my-leetcode/tree/master/2145-grid-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/jekjeki/my-leetcode/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
